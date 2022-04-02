@@ -1,0 +1,15 @@
+C:\Users\Nirav Raj\Desktop\day36\EmployeePayrollOpr\bin\Debug\net6.0\EmployeePayrollOpr.exe
+C:\Users\Nirav Raj\Desktop\day36\EmployeePayrollOpr\bin\Debug\net6.0\EmployeePayrollOpr.deps.json
+C:\Users\Nirav Raj\Desktop\day36\EmployeePayrollOpr\bin\Debug\net6.0\EmployeePayrollOpr.runtimeconfig.json
+C:\Users\Nirav Raj\Desktop\day36\EmployeePayrollOpr\bin\Debug\net6.0\EmployeePayrollOpr.dll
+C:\Users\Nirav Raj\Desktop\day36\EmployeePayrollOpr\bin\Debug\net6.0\EmployeePayrollOpr.pdb
+C:\Users\Nirav Raj\Desktop\day36\EmployeePayrollOpr\obj\Debug\net6.0\EmployeePayrollOpr.csproj.AssemblyReference.cache
+C:\Users\Nirav Raj\Desktop\day36\EmployeePayrollOpr\obj\Debug\net6.0\EmployeePayrollOpr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nirav Raj\Desktop\day36\EmployeePayrollOpr\obj\Debug\net6.0\EmployeePayrollOpr.AssemblyInfoInputs.cache
+C:\Users\Nirav Raj\Desktop\day36\EmployeePayrollOpr\obj\Debug\net6.0\EmployeePayrollOpr.AssemblyInfo.cs
+C:\Users\Nirav Raj\Desktop\day36\EmployeePayrollOpr\obj\Debug\net6.0\EmployeePayrollOpr.csproj.CoreCompileInputs.cache
+C:\Users\Nirav Raj\Desktop\day36\EmployeePayrollOpr\obj\Debug\net6.0\EmployeePayrollOpr.dll
+C:\Users\Nirav Raj\Desktop\day36\EmployeePayrollOpr\obj\Debug\net6.0\refint\EmployeePayrollOpr.dll
+C:\Users\Nirav Raj\Desktop\day36\EmployeePayrollOpr\obj\Debug\net6.0\EmployeePayrollOpr.pdb
+C:\Users\Nirav Raj\Desktop\day36\EmployeePayrollOpr\obj\Debug\net6.0\EmployeePayrollOpr.genruntimeconfig.cache
+C:\Users\Nirav Raj\Desktop\day36\EmployeePayrollOpr\obj\Debug\net6.0\ref\EmployeePayrollOpr.dll
