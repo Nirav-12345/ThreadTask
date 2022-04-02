@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nauSepGA5PwE9TZ/AlH1f/6hwJqMCb6fkUoo8w5tDFp2Q2zRr7D/4npZGu/uqCZ6EI0yZOObr6y/0wXVPd9ydw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nirav Raj\\Desktop\\day 35\\AddressbookThread\\AddressbookThread.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nirav Raj\\.nuget\\packages\\documentformat.openxml\\2.16.0\\documentformat.openxml.2.16.0.nupkg.sha512",
+    "C:\\Users\\Nirav Raj\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
